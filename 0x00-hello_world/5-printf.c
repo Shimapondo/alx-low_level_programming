@@ -1,7 +1,9 @@
 #include <stdio.h>
 /**
- * main - Entry
- * Return; Always 0
+ * main - demonstrates the usage of the write() function.
+ * @void: no parameter accepted
+ * It prints a string to the console.
+ * Return: 0 Program executed successfully.
  */
 int main(void)
 {
